@@ -75,6 +75,10 @@ header p{
     transform: translateY(50%);
 }
 
+.box p{
+    color: gray;
+}
+
 @media screen and (max-width:780px) {
     .card_container .box_push{
         transform: translateY(0);
